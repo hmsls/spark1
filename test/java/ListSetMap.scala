@@ -1,7 +1,7 @@
 /**
   * Created by LISHUAI on 2018/12/9.
   */
-object test {
+object ListSetMap {
   def main(args: Array[String]): Unit ={
     val list1 = List("cool","tools","rule")
 //    list1.foreach(print)
